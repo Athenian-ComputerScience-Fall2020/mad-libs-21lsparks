@@ -15,3 +15,4 @@ Your task is to create a "Mad Libs" style story. For those of you unfamiliar wit
 
 
 
+Once upon a time in a far away land a man found an abandoned castle. He named the castle fisherman's warf. The problem was, the castle was built in the space between the earth and the ocean. It had begun slowly sinking into the sand, slowly, until it eventually hit the next layer of the world, and so could move no further. Now, the old man was very sad because he now had no house and so would have nowhere to live. The man decided that to fix this problem, he would build a small town on top of the castle. People would come there from all over to visit the space between land and sea. He named the place Fisherman's Wharf after his sunken castle. And that, is how the city of San Francisco began. 
