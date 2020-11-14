@@ -1,3 +1,11 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
 #  
-
+print("Welcome to Mad Libs, let's get started!")
+a = input("Pick your first noun: ")
+b = input("Pick your second noun: ")
+c = input("Pick your first verb: ")
+d = input("Pick your second verb: ")
+e = input("Pick an emotion: ")
+f = input("Pick an adjective: ")
+g = input("Pick a city name: ")
+print(f"Once upon a time in a far away land a man found an abandoned {a}. He named it fisherman's warf. The problem was, the {a} was built in the space between the {b} and the ocean. It had begun slowly {c} into the sand until it eventually hit the next layer of the world, and so could move no further. Now, the old man was very {e} because he now had no {a} and so would have nowhere to live. The man decided that to fix this problem, he would quickly {d} a small town on top of the {a}. People would come there from all over to visit the space between {b} and sea. He named the place Fisherman's Wharf after his {f} {a} And that, is how the city of {g} began.")
